@@ -4,6 +4,15 @@ public class Vehicle {
     int passegers;// количество пасажиров
     int fuelcap;// емкость топливного бака
     int mpg; //потребление топлива в милях на галлон
+    //Конструктор класса Vehicle
+    Vehicle(int p,int f, int m){
+        passegers = p;
+        fuelcap = f;
+        mpg = m;
+    }
+    Vehicle(){
+
+    }
 
     //отображение дальности поездки транспортного средства
     int range(){

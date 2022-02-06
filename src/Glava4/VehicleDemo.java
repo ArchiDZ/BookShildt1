@@ -72,5 +72,20 @@ public class VehicleDemo {
         gallons= sportcar.fuelneded(distance);
         System.out.println("Для преодоления "+distance+" миль спорткару требуется "+
                 gallons+" галлонов топлива");
+
+    }
+    public static void vehCons(){
+        //Завершение создания обьектов транспортных средств
+        Vehicle minivan = new Vehicle(7,16,21);
+        Vehicle sportcar = new Vehicle(2,14,12);
+        double gallons;
+        int dist = 550;//St.Peter---Ventspils
+
+        gallons=minivan.fuelneded(dist);
+        System.out.println("Для преодоления "+dist+" миль минифургону требуется "+
+                gallons+" галлонов топлива");
+        gallons= sportcar.fuelneded(dist);
+        System.out.println("Для преодоления "+dist+" миль спорткару требуется "+
+                gallons+" галлонов топлива");
     }
 }
