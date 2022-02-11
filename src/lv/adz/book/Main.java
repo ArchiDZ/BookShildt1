@@ -15,6 +15,8 @@ public class Main {
        // MinMaxInArr.minMax();
        // Buble.bubleAlgor();
        // TwoD.duoArr();
-        Ragged.ragArr();
+       // Ragged.ragArr();
+       // AssignRef.assRef();
+        ACopy.ac();
     }
 }
