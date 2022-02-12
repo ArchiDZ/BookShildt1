@@ -17,6 +17,8 @@ public class Main {
        // TwoD.duoArr();
        // Ragged.ragArr();
        // AssignRef.assRef();
-        ACopy.ac();
+      //  ACopy.ac();
+        Qdemo.qdem();
+
     }
 }
