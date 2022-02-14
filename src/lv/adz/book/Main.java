@@ -18,7 +18,10 @@ public class Main {
        // Ragged.ragArr();
        // AssignRef.assRef();
       //  ACopy.ac();
-        Qdemo.qdem();
-
+        // Qdemo.qdem();
+//        ForEach.sumArrWithFor();
+//        ForEach.sumArrWithForEach();
+//        ForEach.sumFiveElements();
+    ForEach.forEachArrArrays();
     }
 }
