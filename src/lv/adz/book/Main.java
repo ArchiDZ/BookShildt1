@@ -22,6 +22,7 @@ public class Main {
 //        ForEach.sumArrWithFor();
 //        ForEach.sumArrWithForEach();
 //        ForEach.sumFiveElements();
-    ForEach.forEachArrArrays();
+        //ForEach.forEachArrArrays();
+        //ForEach.search();
     }
 }
