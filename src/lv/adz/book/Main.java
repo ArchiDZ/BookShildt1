@@ -24,5 +24,9 @@ public class Main {
 //        ForEach.sumFiveElements();
         //ForEach.forEachArrArrays();
         //ForEach.search();
+        //StrOps.strDemo();
+       // StringArr.SubStr();
+       // EncDec.Encode();
+        Not.notDemo();
     }
 }
