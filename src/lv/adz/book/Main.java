@@ -3,6 +3,7 @@ package lv.adz.book;
 import Glava4.DemoPwr;
 import Glava4.VehicleDemo;
 import Glava5.*;
+import Glava6.ctp223.FSDemo;
 
 import java.io.IOException;
 
@@ -27,6 +28,8 @@ public class Main {
         //StrOps.strDemo();
        // StringArr.SubStr();
        // EncDec.Encode();
-        Not.notDemo();
+       // Not.notDemo();
+        //ShowBitDemo.runShoBit();
+        FSDemo.runFsDemo();
     }
 }
