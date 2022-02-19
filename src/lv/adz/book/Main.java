@@ -4,6 +4,8 @@ import Glava4.DemoPwr;
 import Glava4.VehicleDemo;
 import Glava5.*;
 import Glava6.ctp223.FSDemo;
+import Glava6.ctp227.PassOb;
+import Glava6.ctp229.CallByValue;
 
 import java.io.IOException;
 
@@ -30,6 +32,9 @@ public class Main {
        // EncDec.Encode();
        // Not.notDemo();
         //ShowBitDemo.runShoBit();
-        FSDemo.runFsDemo();
+         //FSDemo.runFsDemo();
+        //PassOb.runPassOb();
+        CallByValue.runCallByValue();
+
     }
 }
